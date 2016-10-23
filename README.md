@@ -1,4 +1,4 @@
-## Introducing Elixir book practice
+## Ejercicios del libro de Elixir
 
 <h4 class="resource">Introducing Elixir</h4>
 Getting Started in Functional Programming
